@@ -68,7 +68,7 @@
             // 
             // AnswerBox
             // 
-            this.AnswerBox.Location = new System.Drawing.Point(27, 54);
+            this.AnswerBox.Location = new System.Drawing.Point(48, 74);
             this.AnswerBox.Multiline = true;
             this.AnswerBox.Name = "AnswerBox";
             this.AnswerBox.Size = new System.Drawing.Size(686, 65);
@@ -76,7 +76,7 @@
             // 
             // _7
             // 
-            this._7.Location = new System.Drawing.Point(317, 189);
+            this._7.Location = new System.Drawing.Point(332, 217);
             this._7.Name = "_7";
             this._7.Size = new System.Drawing.Size(94, 36);
             this._7.TabIndex = 1;
@@ -85,7 +85,7 @@
             // 
             // _8
             // 
-            this._8.Location = new System.Drawing.Point(398, 189);
+            this._8.Location = new System.Drawing.Point(428, 217);
             this._8.Name = "_8";
             this._8.Size = new System.Drawing.Size(94, 36);
             this._8.TabIndex = 2;
@@ -94,7 +94,7 @@
             // 
             // _9
             // 
-            this._9.Location = new System.Drawing.Point(479, 189);
+            this._9.Location = new System.Drawing.Point(528, 217);
             this._9.Name = "_9";
             this._9.Size = new System.Drawing.Size(94, 36);
             this._9.TabIndex = 3;
@@ -103,7 +103,7 @@
             // 
             // _6
             // 
-            this._6.Location = new System.Drawing.Point(479, 239);
+            this._6.Location = new System.Drawing.Point(528, 267);
             this._6.Name = "_6";
             this._6.Size = new System.Drawing.Size(94, 36);
             this._6.TabIndex = 6;
@@ -112,7 +112,7 @@
             // 
             // _5
             // 
-            this._5.Location = new System.Drawing.Point(398, 239);
+            this._5.Location = new System.Drawing.Point(428, 267);
             this._5.Name = "_5";
             this._5.Size = new System.Drawing.Size(94, 36);
             this._5.TabIndex = 5;
@@ -121,7 +121,7 @@
             // 
             // _4
             // 
-            this._4.Location = new System.Drawing.Point(317, 239);
+            this._4.Location = new System.Drawing.Point(332, 267);
             this._4.Name = "_4";
             this._4.Size = new System.Drawing.Size(94, 36);
             this._4.TabIndex = 4;
@@ -130,7 +130,7 @@
             // 
             // _3
             // 
-            this._3.Location = new System.Drawing.Point(479, 293);
+            this._3.Location = new System.Drawing.Point(528, 321);
             this._3.Name = "_3";
             this._3.Size = new System.Drawing.Size(94, 36);
             this._3.TabIndex = 9;
@@ -139,7 +139,7 @@
             // 
             // _2
             // 
-            this._2.Location = new System.Drawing.Point(398, 293);
+            this._2.Location = new System.Drawing.Point(428, 321);
             this._2.Name = "_2";
             this._2.Size = new System.Drawing.Size(94, 36);
             this._2.TabIndex = 8;
@@ -148,7 +148,7 @@
             // 
             // _1
             // 
-            this._1.Location = new System.Drawing.Point(317, 293);
+            this._1.Location = new System.Drawing.Point(332, 321);
             this._1.Name = "_1";
             this._1.Size = new System.Drawing.Size(94, 36);
             this._1.TabIndex = 7;
@@ -157,7 +157,7 @@
             // 
             // _Equl
             // 
-            this._Equl.Location = new System.Drawing.Point(479, 347);
+            this._Equl.Location = new System.Drawing.Point(528, 375);
             this._Equl.Name = "_Equl";
             this._Equl.Size = new System.Drawing.Size(94, 36);
             this._Equl.TabIndex = 12;
@@ -166,7 +166,7 @@
             // 
             // Dot
             // 
-            this.Dot.Location = new System.Drawing.Point(398, 347);
+            this.Dot.Location = new System.Drawing.Point(428, 375);
             this.Dot.Name = "Dot";
             this.Dot.Size = new System.Drawing.Size(94, 36);
             this.Dot.TabIndex = 11;
@@ -175,7 +175,7 @@
             // 
             // _0
             // 
-            this._0.Location = new System.Drawing.Point(317, 347);
+            this._0.Location = new System.Drawing.Point(332, 375);
             this._0.Name = "_0";
             this._0.Size = new System.Drawing.Size(94, 36);
             this._0.TabIndex = 10;
@@ -184,7 +184,7 @@
             // 
             // Percent
             // 
-            this.Percent.Location = new System.Drawing.Point(479, 135);
+            this.Percent.Location = new System.Drawing.Point(528, 163);
             this.Percent.Name = "Percent";
             this.Percent.Size = new System.Drawing.Size(94, 36);
             this.Percent.TabIndex = 15;
@@ -193,7 +193,7 @@
             // 
             // LBrackets
             // 
-            this.LBrackets.Location = new System.Drawing.Point(398, 135);
+            this.LBrackets.Location = new System.Drawing.Point(428, 163);
             this.LBrackets.Name = "LBrackets";
             this.LBrackets.Size = new System.Drawing.Size(94, 36);
             this.LBrackets.TabIndex = 14;
@@ -202,7 +202,7 @@
             // 
             // RBrackets
             // 
-            this.RBrackets.Location = new System.Drawing.Point(317, 135);
+            this.RBrackets.Location = new System.Drawing.Point(332, 163);
             this.RBrackets.Name = "RBrackets";
             this.RBrackets.Size = new System.Drawing.Size(94, 36);
             this.RBrackets.TabIndex = 13;
@@ -211,7 +211,7 @@
             // 
             // _x
             // 
-            this._x.Location = new System.Drawing.Point(189, 135);
+            this._x.Location = new System.Drawing.Point(223, 163);
             this._x.Name = "_x";
             this._x.Size = new System.Drawing.Size(94, 36);
             this._x.TabIndex = 30;
@@ -220,7 +220,7 @@
             // 
             // Deg
             // 
-            this.Deg.Location = new System.Drawing.Point(108, 135);
+            this.Deg.Location = new System.Drawing.Point(123, 163);
             this.Deg.Name = "Deg";
             this.Deg.Size = new System.Drawing.Size(94, 36);
             this.Deg.TabIndex = 29;
@@ -229,7 +229,7 @@
             // 
             // Rad
             // 
-            this.Rad.Location = new System.Drawing.Point(27, 135);
+            this.Rad.Location = new System.Drawing.Point(27, 163);
             this.Rad.Name = "Rad";
             this.Rad.Size = new System.Drawing.Size(94, 36);
             this.Rad.TabIndex = 28;
@@ -238,7 +238,7 @@
             // 
             // Power
             // 
-            this.Power.Location = new System.Drawing.Point(189, 347);
+            this.Power.Location = new System.Drawing.Point(223, 375);
             this.Power.Name = "Power";
             this.Power.Size = new System.Drawing.Size(94, 36);
             this.Power.TabIndex = 27;
@@ -247,7 +247,7 @@
             // 
             // Exp
             // 
-            this.Exp.Location = new System.Drawing.Point(108, 347);
+            this.Exp.Location = new System.Drawing.Point(123, 375);
             this.Exp.Name = "Exp";
             this.Exp.Size = new System.Drawing.Size(94, 36);
             this.Exp.TabIndex = 26;
@@ -256,7 +256,7 @@
             // 
             // Ans
             // 
-            this.Ans.Location = new System.Drawing.Point(27, 347);
+            this.Ans.Location = new System.Drawing.Point(27, 375);
             this.Ans.Name = "Ans";
             this.Ans.Size = new System.Drawing.Size(94, 36);
             this.Ans.TabIndex = 25;
@@ -265,7 +265,7 @@
             // 
             // Root
             // 
-            this.Root.Location = new System.Drawing.Point(189, 293);
+            this.Root.Location = new System.Drawing.Point(223, 321);
             this.Root.Name = "Root";
             this.Root.Size = new System.Drawing.Size(94, 36);
             this.Root.TabIndex = 24;
@@ -274,7 +274,7 @@
             // 
             // Tan
             // 
-            this.Tan.Location = new System.Drawing.Point(108, 293);
+            this.Tan.Location = new System.Drawing.Point(123, 321);
             this.Tan.Name = "Tan";
             this.Tan.Size = new System.Drawing.Size(94, 36);
             this.Tan.TabIndex = 23;
@@ -283,7 +283,7 @@
             // 
             // E
             // 
-            this.E.Location = new System.Drawing.Point(27, 293);
+            this.E.Location = new System.Drawing.Point(27, 321);
             this.E.Name = "E";
             this.E.Size = new System.Drawing.Size(94, 36);
             this.E.TabIndex = 22;
@@ -292,7 +292,7 @@
             // 
             // Log
             // 
-            this.Log.Location = new System.Drawing.Point(189, 239);
+            this.Log.Location = new System.Drawing.Point(223, 267);
             this.Log.Name = "Log";
             this.Log.Size = new System.Drawing.Size(94, 36);
             this.Log.TabIndex = 21;
@@ -301,7 +301,7 @@
             // 
             // Cos
             // 
-            this.Cos.Location = new System.Drawing.Point(108, 239);
+            this.Cos.Location = new System.Drawing.Point(123, 267);
             this.Cos.Name = "Cos";
             this.Cos.Size = new System.Drawing.Size(94, 36);
             this.Cos.TabIndex = 20;
@@ -310,7 +310,7 @@
             // 
             // Pi
             // 
-            this.Pi.Location = new System.Drawing.Point(27, 239);
+            this.Pi.Location = new System.Drawing.Point(27, 267);
             this.Pi.Name = "Pi";
             this.Pi.Size = new System.Drawing.Size(94, 36);
             this.Pi.TabIndex = 19;
@@ -319,7 +319,7 @@
             // 
             // ln
             // 
-            this.ln.Location = new System.Drawing.Point(189, 189);
+            this.ln.Location = new System.Drawing.Point(223, 217);
             this.ln.Name = "ln";
             this.ln.Size = new System.Drawing.Size(94, 36);
             this.ln.TabIndex = 18;
@@ -328,7 +328,7 @@
             // 
             // sin
             // 
-            this.sin.Location = new System.Drawing.Point(108, 189);
+            this.sin.Location = new System.Drawing.Point(123, 217);
             this.sin.Name = "sin";
             this.sin.Size = new System.Drawing.Size(94, 36);
             this.sin.TabIndex = 17;
@@ -337,7 +337,7 @@
             // 
             // Lnv
             // 
-            this.Lnv.Location = new System.Drawing.Point(27, 189);
+            this.Lnv.Location = new System.Drawing.Point(27, 217);
             this.Lnv.Name = "Lnv";
             this.Lnv.Size = new System.Drawing.Size(94, 36);
             this.Lnv.TabIndex = 16;
@@ -346,7 +346,7 @@
             // 
             // AC
             // 
-            this.AC.Location = new System.Drawing.Point(619, 135);
+            this.AC.Location = new System.Drawing.Point(640, 163);
             this.AC.Name = "AC";
             this.AC.Size = new System.Drawing.Size(94, 36);
             this.AC.TabIndex = 35;
@@ -355,7 +355,7 @@
             // 
             // Add
             // 
-            this.Add.Location = new System.Drawing.Point(619, 347);
+            this.Add.Location = new System.Drawing.Point(640, 375);
             this.Add.Name = "Add";
             this.Add.Size = new System.Drawing.Size(94, 36);
             this.Add.TabIndex = 34;
@@ -364,7 +364,7 @@
             // 
             // Less
             // 
-            this.Less.Location = new System.Drawing.Point(619, 293);
+            this.Less.Location = new System.Drawing.Point(640, 321);
             this.Less.Name = "Less";
             this.Less.Size = new System.Drawing.Size(94, 36);
             this.Less.TabIndex = 33;
@@ -373,7 +373,7 @@
             // 
             // Multiply
             // 
-            this.Multiply.Location = new System.Drawing.Point(619, 239);
+            this.Multiply.Location = new System.Drawing.Point(640, 267);
             this.Multiply.Name = "Multiply";
             this.Multiply.Size = new System.Drawing.Size(94, 36);
             this.Multiply.TabIndex = 32;
@@ -382,7 +382,7 @@
             // 
             // except
             // 
-            this.except.Location = new System.Drawing.Point(619, 189);
+            this.except.Location = new System.Drawing.Point(640, 217);
             this.except.Name = "except";
             this.except.Size = new System.Drawing.Size(94, 36);
             this.except.TabIndex = 31;
